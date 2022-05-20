@@ -17,7 +17,7 @@ I am a Web Developer from the U.S., more specifically North Carolina.
 
 - :zap: I’m working as a developer; contributing to frontend and backend web applications.
 
-- :seedling: Currently I'm exploring Agile methodology and serving as Scrum Master for one of our teams. 
+- :seedling: Currently, I'm exploring Agile methodology and serving as Scrum Master for one of our teams. 
 
 - :chess_pawn: In my free time, I play chess and garden.
 
