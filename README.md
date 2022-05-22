@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me:
 
-I am a Web Developer from the U.S., more specifically North Carolina.
+I am a Web Developer in the U.S., more specifically North Carolina.
 
 - :zap: I’m working as a developer; contributing to frontend and backend web applications.
 
