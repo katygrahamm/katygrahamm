@@ -19,7 +19,7 @@ I am a Web Developer in the U.S., more specifically North Carolina.
 
 - :seedling: Currently, I'm exploring Agile methodology and serving as Scrum Master for one of our teams. 
 
-- :chess_pawn: In my free time, I play chess and garden.
+- :chess_pawn: In my free time, I like to play chess and garden.
 
 - :mailbox: How to reach me:   <a href="https://www.linkedin.com/in/katy-graham-andersen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
