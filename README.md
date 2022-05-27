@@ -3,7 +3,6 @@
 
 -->
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HqQOFWDTDMZgnl4mOJ/giphy.gif" width="100"/>
   <h3>hey there 👋</h3>
